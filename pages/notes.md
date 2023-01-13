@@ -1,8 +1,8 @@
 ---
 layout: Post
-permalink: /notes
+permalink: /master
 feedformat: card
-title: Digital Garden
+title: Master
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+This page include all the work done in the videogame development master. Feel free to take a look!
