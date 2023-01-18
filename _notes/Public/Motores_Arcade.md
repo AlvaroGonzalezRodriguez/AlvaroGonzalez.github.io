@@ -38,4 +38,6 @@ alu0101202556
  so we need to call them in the respectives bluprint.</p>
 <p>There are also some sounds and particles that appear when the player or the enemies do some actions and a background music. The sounds and particle are managed in the blueprint and not in the animator</p>
 
-<p>And this is a link to the presentation - [Presentation Arcade Project](https://youtu.be/5L0LkA51wuM)</p>
+<p>And this is a link to the presentation</p>
+
+[Presentation Arcade Project](https://youtu.be/5L0LkA51wuM)
